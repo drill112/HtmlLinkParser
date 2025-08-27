@@ -9,7 +9,7 @@ namespace HtmlLinkParser
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            Application.SetCompatibleTextRenderingDefault(false);//test234
             Application.Run(new MainForm());
         }
     }
